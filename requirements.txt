@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+openpyxl
+matplotlib
+plotly
+fpdf2
+anthropic
+python-dotenv
