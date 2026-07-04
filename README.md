@@ -43,7 +43,7 @@ An interactive data analysis web application built with Python and Streamlit tha
 
 ## Live Demo
 
-Coming Soon
+(https://ai-excel-data-analyst-reporting-assistant.streamlit.app/)
 
 ## Installation
 
